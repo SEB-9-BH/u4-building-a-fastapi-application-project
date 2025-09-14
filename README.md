@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Build a FastAPI Application Project</span>
+  <span class="headline">Build a FastAPI Application Project</span><br/>
   <span class="subhead">Step By Step Project Build</span>
 </h1>
 
