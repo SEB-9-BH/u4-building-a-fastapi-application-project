@@ -5,11 +5,11 @@
 
 ## Project Instructions
 
-For your project, you will be building and testing an API using **Python**, **FastAPI**, and **React**, with optional testing using **Pytest**, and **HTTPX**. This project will give you the opportunity to build a complete API with full CRUD functionality with a React frontend, as well as write automated tests to ensure its reliability.
+For your project, you will be building and testing a fullstack application using **Python**, **FastAPI**, and **React**, with optional testing using **Pytest**, and **HTTPX**. This project will give you the opportunity to build a complete API with full CRUD functionality with a React frontend, as well as write automated tests to ensure its reliability.
 
 ### **Choose Your Theme**
 
-Start by choosing a theme or service that interests you. Consider building an API that aligns with sustainability, community impact, or any area you’re passionate about.
+Start by choosing a theme or service that interests you. Consider building a project that aligns with sustainability, community impact, or any area you’re passionate about.
 
 ### **What You'll Learn:**
 
